@@ -1,4 +1,4 @@
-#! /use/bin/env node
+#! /usr/bin/env node
 import inquirer from "inquirer"
 let baseCurrency:any={
     USD:1, //base currency
